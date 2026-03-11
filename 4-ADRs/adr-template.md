@@ -6,6 +6,12 @@ decision-makers: {list everyone involved in the decision}
 consulted: {list everyone whose opinions are sought (typically subject-matter experts); and with whom there is a two-way communication}
 informed: {list everyone who is kept up-to-date on progress; and with whom there is a one-way communication}
 ---
+[code highlight="2,3"]
+This line won't be highlighted.
+This line will be highlighted.
+This line will be highlighted.
+This line won't be highlighted.
+[/code]
 
 # {short title, representative of solved problem and found solution}
 
